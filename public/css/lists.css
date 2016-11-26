@@ -1,0 +1,336 @@
+html,body{
+	background-color: black;
+	color: white;
+	height: 100%;
+	width: 100%;
+}
+
+.top{
+	margin: 0% 5%;
+}
+
+.top-one{
+	list-style-type: none;
+}
+
+.top-one li{
+	margin-left: 0px;
+	float: left;
+	text-align: left;
+}
+
+.top-one li a{
+	color: white;
+	display: block;
+	width: 12em;
+	padding: 0.5em;
+	text-decoration: none;
+}
+
+.top-one li a:hover{
+	color: #fd5c63;
+}
+
+#first a{
+	width: 7em;
+}
+
+.top-left{
+	margin-left: -40px;
+	float: left;
+}
+
+.top-two{
+	list-style-type: none;
+}
+
+.top-two li{
+	margin-left: 0px;
+	float: left;
+	text-align: center;
+}
+
+.top-two a{
+	color: white;
+	display: block;
+	width: 80px;
+	padding: 8px;
+	text-decoration: none;
+}
+
+.top-two a:hover{
+	color: #fd5c63;
+}
+
+.top-right{
+	float: right;
+}
+
+.content{
+	clear: left;
+	height: 90%;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 0;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.content-one{
+	list-style-type: none;
+	font-size: 30px;
+}
+.content-one li{
+	margin-left: 0px;
+	float: left;
+	text-align: center;
+}
+
+.content-one a{
+	color: white;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.content-left {
+	float: left;
+}
+
+.content-two{
+	list-style-type: none;
+}
+
+.content-two li{
+	margin-left: 0px;
+	float: left;
+	text-align: center;
+}
+
+.content-two a{
+	color: white;
+	display: block;
+	width: 80px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.content-two a:hover{
+	color: #fd5c63;
+}
+
+.content-right{
+	margin-top: 20px;
+	float: right;
+}
+
+.block{
+	margin: 200px 500px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.circle{
+	border: 2px solid white;
+	border-radius: 50%;
+	color: white;
+	height: 140px;
+	width: 200px;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 60px;
+}
+
+.a_content{
+	clear: left;
+	color: black;
+	height: 90%;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 0;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	background-color: #DCEDF9;
+}
+
+.head{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 80px;
+	text-align: center;
+}
+
+.tour_desc{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.places li{
+	float: left;
+	margin-left: 70px;
+	margin-top: 100px;
+}
+
+.places ul{
+	list-style-type: none;
+}
+
+.image{
+	border: 2px solid white;
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+.place_name{
+	font-family: 'Tangerine', serif;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+}
+
+.offers{
+	clear: left;
+	color: white;
+	height: 60%;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 0;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.offers h1{
+	font-size: 100px;
+	text-align: center;
+}
+
+.offers p{
+	font-size: 20px;
+	text-align: center;
+}
+
+.offers button{
+	width: 100px;
+	margin: 50px 550px;
+}
+
+.news{
+	clear: left;
+	color: black;
+	height: 90%;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 0;
+	background-color: #DCEDF9;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.news h1{
+	font-size: 60px;
+	text-align: center;
+}
+
+.news p{
+	font-size: 20px;
+	text-align: center;
+	margin-top: -10px;
+}
+
+.blogs{
+	margin-left: 35px;
+}
+
+.blog{
+	float: left;
+	margin-left: 50px;
+	height: 360px;
+	width: 27%;
+	background-color: white;
+}
+
+.img img{
+	width: 95%;
+	padding: 2% 2%;
+}
+
+.about{
+	clear: left;
+	color: black;
+	height: 40%;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-top: 20px;
+	background-color: white;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+}
+
+.add{
+	margin-left: 6%;
+	float: left;
+	height: 80%;
+	width: 20%;
+}
+
+.add p{
+	color: grey;
+}
+
+.nav{
+	margin-left: 2%;
+	float: left;
+	height: 80%;
+	width: 20%;
+}
+
+.nav a{
+	text-decoration: none;
+	color: grey;
+}
+
+.nav p{
+	color: grey;
+}
+
+.nav a:hover{
+	color: #fd5c63;
+}
+
+.follow{
+	margin-left: 2%;
+	float: left;
+	height: 80%;
+	width: 20%;
+}
+
+.follow p{
+	color: grey;
+}
+
+.newsletter{
+	margin-left: 2%;
+	float: left;
+	height: 80%;
+	width: 20%;
+}
+
+.newsletter p{
+	color: grey;
+}
+
+.about_head{
+	font-size: 200%;
+}
+
+.footer{
+	padding-top: 20px;
+	clear: both;
+	text-align: center;
+}

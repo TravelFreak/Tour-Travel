@@ -1,0 +1,41 @@
+.from-caption{
+	font: normal 12px Tahoma, Geneva, sans-serif;
+	margin: 0px 0px -5px -360px;
+}
+.to-caption{
+	font: normal 12px Tahoma, Geneva, sans-serif;
+	margin: -35px -40px 65px 0px;
+}
+.returndate-caption{
+	font: normal 12px Tahoma, Geneva, sans-serif;
+	margin: 0px 0px 0px -120px;
+}
+.departuredate-caption{
+	font: normal 12px Tahoma, Geneva, sans-serif;
+	margin: 0px 0px 0px -105px;
+}
+.SwapFromTo {
+    opacity: .55;
+    filter: alpha(opacity=40);
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 20px;
+}
+body{
+	/*background-image: url("../images/login.jpg");*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+	font-family: "Segoe UI Light","Segoe UI",Arial,Helvetica,sans-serif;
+}
+.login {
+    background-color: rgba(91, 107, 218, 0.3);
+    position: center center;
+    width: 400px;
+    height: 420px;
+    padding: 20px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 2em;
+}
